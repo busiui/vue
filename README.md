@@ -1,5 +1,6 @@
 # default
-
+# 推荐使用 HBuilder IDE.
+# https://www.dcloud.io/hbuilderx.html
 ## Project setup
 ```
 npm install
